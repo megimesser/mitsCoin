@@ -4,11 +4,9 @@ function Main() {
   return (
     <div>
       <header className="App-header">
-        <img></img>
+        <img src="./bilder/log2.jpg"></img>
         <ul>
-          <li>Telegram</li>
-          <li>Twitter (X)</li>
-          <li>DEXSCRENER</li>
+         
         </ul>
       </header>
     </div>

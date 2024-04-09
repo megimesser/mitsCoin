@@ -11,10 +11,7 @@ function App() {
       <Head />
      
      
-      <header className="App-header">
-       
-     
-      </header>
+      <p>Dicks</p>
       <Main />
     </div>
   );
