@@ -8,6 +8,7 @@ import Footer from "./components/footer"
 
 function App() {
   return (
+    <>
     <div className="App">
      
       <Head />
@@ -16,9 +17,11 @@ function App() {
     
       <Main />
       <Preview />
-      <Footer />
+      
   
     </div>
+    <Footer />
+    </>
   );
 }
 
